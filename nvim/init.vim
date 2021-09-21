@@ -6,6 +6,8 @@ set wildmenu
 
 set hidden
 
+set fillchars=vert:|
+
 set encoding=utf-8
 set langmenu=zh_CN.UTF-8
 set ambiwidth=double 
